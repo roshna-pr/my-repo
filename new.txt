@@ -1,2 +1,6 @@
 new 
+<<<<<<< HEAD
 how are u
+=======
+sdf,df
+>>>>>>> refs/remotes/origin/main
